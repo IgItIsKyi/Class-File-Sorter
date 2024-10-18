@@ -1,5 +1,3 @@
----
-
 # Class File Sorter
 
 ## Overview
